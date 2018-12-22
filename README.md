@@ -6,8 +6,8 @@
 ### Author: Kevin O'Halloran
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [assignment1-props-sandbox](https://codesandbox.io/s/004kz8070v)
+* [repo](https://github.com/Kevinoh47/lab-28)
+* [assignment1-props-sandbox](https://codesandbox.io/s/ykjljx4zkj)
 * [assignment2-internal-state-sandbox](https://codesandbox.io/s/py5z18knv0)
 * [assignment3-external-state-sandbox](https://codesandbox.io/s/jj3k8501z5)
 
