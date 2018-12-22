@@ -8,7 +8,7 @@
 ### Links and Resources
 * [repo](https://github.com/Kevinoh47/lab-28)
 * [assignment1-props-sandbox](https://codesandbox.io/s/ykjljx4zkj)
-* [assignment2-internal-state-sandbox](https://codesandbox.io/s/py5z18knv0)
+* [assignment2-internal-state-sandbox](https://codesandbox.io/s/ox8o9l89jz)
 * [assignment3-external-state-sandbox](https://codesandbox.io/s/jj3k8501z5)
 
 ### Modules
