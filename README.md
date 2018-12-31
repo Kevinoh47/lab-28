@@ -1,15 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 28 Props and State
 
-### Author: Student/Group Name
+### Author: Kevin O'Halloran
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/Kevinoh47/lab-28)
+* [assignment1-props-sandbox](https://codesandbox.io/s/ykjljx4zkj)
+* [assignment2-internal-state-sandbox](https://codesandbox.io/s/ox8o9l89jz)
+* [assignment3-external-state-sandbox](https://codesandbox.io/s/jj3k8501z5)
 
 ### Modules
 #### `modulename.js`
